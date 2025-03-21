@@ -1,4 +1,4 @@
-# Olá, eu sou o [Lucas]! 👋
+# Olá, eu sou o Lucas 👋
 
 um profissional formado em Análise e Desenvolvimento de Sistemas, apaixonado pela criação e pelo poder da web. trago uma abordagem prática para o campo da web design. Minha experiência prévia me permitiu entender os fundamentos técnicos necessários para criar interfaces intuitivas e responsivas, enquanto meu amor pelo design me incentiva a criar experiências visuais impactantes e atraentes.  
   
